@@ -77,17 +77,18 @@ distance math, at a resolution that holds up when a stored position is later dis
 - **Enterprise systems** — ERP, POS, CMS, and role-based access control across multiple
   industries.
 
-## Working with
+## Technical stack
 
 | | |
 |---|---|
-| **Languages** | TypeScript / JavaScript · PHP · Python · Java |
-| **Backend** | NestJS · Express · Laravel · Spring Boot · Flask |
-| **Frontend** | React · Next.js · Vue · Angular · React Native · RxJS · Module Federation · PWA |
-| **Data** | PostgreSQL · MySQL · MongoDB · Redis · TypeORM |
-| **APIs** | REST · GraphQL (Apollo Federation) · gRPC · WebRTC · Socket.io · SSO |
-| **Infra** | Docker · GitHub Actions · Nginx · PM2 |
 | **Architecture** | Microservices · hexagonal · SOA · CQRS · event-driven · multi-tenancy |
+| **Data** | PostgreSQL · MySQL · MongoDB · Redis · TypeORM |
+| **APIs & integration** | REST · GraphQL (Apollo Federation) · gRPC · WebRTC · Socket.io · TCP/IP sockets · SSO |
+| **Backend** | NestJS · Express · Laravel · Spring Boot · Flask |
+| **Frontend** | React · Next.js · Vue · Angular · Module Federation · RxJS |
+| **Mobile** | React Native · PWA · offline sync |
+| **Infra** | Docker · Nginx · PM2 |
+| **Languages** | TypeScript / JavaScript · PHP · Python · Java |
 | **Design patterns** | Adapter · Factory Method · Observer · Decorator · Facade · Builder · Repository · Singleton |
 
 ---
